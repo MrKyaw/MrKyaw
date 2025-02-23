@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**MrKyaw/MrKyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Passionate about enhancing Intelligent Knowledge Decision-Making with Cutting-Edge AI & Data Science Solutions. Experienced in delivering client-centric results and leading innovative, adaptable teams. Let's transform your future with impactful technology.
 
 Over 10 years of experience in AI, LLM, MLOps, Data Science, and Cloud Technologies, with
@@ -94,4 +91,3 @@ Lecturing\Mentoring
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: ...
 I’m passionate to discuss about AI Futurist 🦾 and its capability to leverage solution for the market and client needs and wants.
--->
