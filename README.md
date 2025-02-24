@@ -16,10 +16,10 @@ As a part-time tutor and lecturer, I have taught AI, Data Science, and MLOps at 
 - 👯 I’m looking to collaborate on applying State of the Art and Cutting Edge Technology inn Future AI area
 
 - 🤔 I'm always open to interesting conversations and collaboration below
-![image](https://github.com/user-attachments/assets/09561469-f8e1-4927-b80d-da6c647a3258)
-![image](https://github.com/user-attachments/assets/bfbbf686-eec0-4f36-8b23-f413c4008e76)
-![image](https://github.com/user-attachments/assets/2eb407f3-5dd0-420d-83e6-92e65f85f39d)
-![image](https://github.com/user-attachments/assets/d7691412-4f46-42e2-99ed-5799c8820920)
+[<img src="./images/facebook.jpg" alt="facebook logo" width="35" height="35" />]
+[<img src="./images/Linkedin.jpg" alt="facebook logo" width="35" height="35" />]
+[<img src="./images/viber.jpg" alt="facebook logo" width="35" height="35" />]
+[<img src="./images/whatsapp.jpg" alt="facebook logo" width="35" height="35" />]
 
 
 - 💬 Ask me about ...
