@@ -16,10 +16,10 @@ As a part-time tutor and lecturer, I have taught AI, Data Science, and MLOps at 
 - 👯 I’m looking to collaborate on applying State of the Art and Cutting Edge Technology inn Future AI area
 
 - 🤔 I'm always open to interesting conversations and collaboration below
-[<img src="./images/facebook.jpg" alt="facebook logo" width="35" height="35" />]
-[<img src="./images/Linkedin.jpg" alt="facebook logo" width="35" height="35" />]
-[<img src="./images/viber.jpg" alt="facebook logo" width="35" height="35" />]
-[<img src="./images/whatsapp.jpg" alt="facebook logo" width="35" height="35" />]
+[<img src="./images/facebook.jpg" alt="Facebook logo" width="35" height="35" />]
+[<img src="./images/Linkedin.jpg" alt="Linkedin logo" width="35" height="35" />]
+[<img src="./images/viber.jpg" alt="Viber logo" width="35" height="35" />]
+[<img src="./images/whatsapp.jpg" alt="WhatsApp logo" width="35" height="35" />](https://www.linkedin.com/in/kyaw-kyaw-oo-31839a4/)
 
 
 - 💬 Ask me about ...
