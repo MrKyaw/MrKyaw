@@ -92,7 +92,7 @@
 - Trustworthy Agent Factory
 - LLM Inference
 
-**Service:** Reviewer, *Digital Health* (July 2026–present)
+**Service:** Supervising State of the Art Projects, Reviewer, *Digital Health* (July 2026–present)
 
 ---
 
