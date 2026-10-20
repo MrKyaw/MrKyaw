@@ -87,6 +87,7 @@
 
 **In progress**
 
+- QuantEdge MultiAgents Intelligent Decision Platform
 - Cyber Security Agent
 - Trustworthy Agent Factory
 - LLM Inference
