@@ -179,7 +179,7 @@
 - **Upskilled 200+ professionals** in AI/ML and data science development and deployment
 - **Project advisor:** National Science and Technology Development Agency (2022–present)
 - **Mentor:** AI Saturdays · DataKind · Omdena
-- **Community:** Boon Lay Zone F Resident Network · Mahamuni Buddhist Society · Toastmasters International
+- **Community:** RAE(Soon) · DeepEval · Boon Lay Zone F Resident Network · Mahamuni Buddhist Society · Toastmasters International
 
 ---
 
