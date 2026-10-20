@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Mississauga, Ontario, Canada &nbsp;·&nbsp; 🌐 Open to Principal / Staff AI Engineer· AI Architect ·
+  📍 Mississauga, Ontario, Canada &nbsp;·&nbsp; 🌐 Open to Principal / Staff AI Engineer · AI Architect
 </p>
 
 <p align="center">
