@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/mrkyawkyawoo/"><img src="https://img.shields.io/badge/LinkedIn-mrkyawkyawoo-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://mrkyaw.github.io/kyawkyawoo"><img src="https://img.shields.io/badge/Portfolio-Live-1F6FEB?logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://scholar.google.com/citations?user=BWPq9wQAAAAJ&hl=en&authuser=6"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?logo=google&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://www.youtube.com/@PrimeInPro"><img src="https://img.shields.io/badge/YouTube-PrimeInPro-FF0000?logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@PrimeInProd"><img src="https://img.shields.io/badge/YouTube-Trustworthy%20PRIME-FF0000?logo=youtube&logoColor=white" alt="YouTube Trustworthy PRIME"></a>
   <a href="https://medium.com/@kyaw.future.ai"><img src="https://img.shields.io/badge/Medium-@kyaw.future.ai-000000?logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://www.kaggle.com/kyawkyaw"><img src="https://img.shields.io/badge/Kaggle-kyawkyaw-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="mailto:kyaw.jobs@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
@@ -183,11 +183,11 @@
 
 ---
 
-## 🎥 YouTube — PrimeInPro
+## 🎥 YouTube — Trustworthy PRIME
 
-Applied AI engineering, agentic systems, and production patterns.
+Applied AI engineering: agentic systems, real-time voice and multimodal assistants, LLMOps/evaluation, and production patterns.
 
-**▶ [youtube.com/@PrimeInPro](https://www.youtube.com/@PrimeInPro)**
+**▶ [youtube.com/@PrimeInProd](https://www.youtube.com/@PrimeInProd)**
 
 ---
 
@@ -197,7 +197,7 @@ Applied AI engineering, agentic systems, and production patterns.
   <a href="https://www.linkedin.com/in/mrkyawkyawoo/">LinkedIn</a> ·
   <a href="https://mrkyaw.github.io/kyawkyawoo">Portfolio</a> ·
   <a href="https://scholar.google.com/citations?user=BWPq9wQAAAAJ&hl=en&authuser=6">Google Scholar</a> ·
-  <a href="https://www.youtube.com/@PrimeInPro">YouTube</a> ·
+  <a href="https://www.youtube.com/@PrimeInProd">YouTube</a> ·
   <a href="https://medium.com/@kyaw.future.ai">Medium</a> ·
   <a href="https://www.kaggle.com/kyawkyaw">Kaggle</a> ·
   <a href="mailto:kyaw.jobs@gmail.com">Email</a>
