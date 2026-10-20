@@ -87,9 +87,9 @@
 
 **In progress**
 
-- **ClawBench** — NeurIPS 2026 · leaderboard: `clawbench.net`
-- **Empowering Prediction of Secured Q&A by Leveraging T-RAG** — ACL / EMNLP (ongoing)
-- Healthcare ML manuscripts under review (Health Informatics Journal and international journals)
+- Cyber Security Agent
+- Trustworthy Agent Factory
+- LLM Inference
 
 **Service:** Reviewer, *Digital Health* (July 2026–present)
 
