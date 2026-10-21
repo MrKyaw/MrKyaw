@@ -58,7 +58,7 @@
 
 ---
 
-## 📈 AIMLOps Enterprise Impact
+## 📈 AIMLOps(only) Enterprise Impact
 
 | Domain | Work | Measured outcome |
 |---|---|---|
