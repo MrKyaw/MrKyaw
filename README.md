@@ -62,7 +62,11 @@
 
 | Domain | Work | Measured outcome |
 |---|---|---|
-| **Edge AI** | FIVIS vehicle inspection — Rust/WASM, ONNX, NVIDIA Triton | **25× performance · 70–85% lower latency · 40–60% scalability** |
+| **Edge AI + multi-agent** | FIVIS vehicle inspection — LangGraph multi-agent orchestration, RAG/VectorDB, Rust/WASM, ONNX, NVIDIA Triton | **25× performance · 70–85% lower latency · 40–60% scalability · grounded, auditable decisions** |
+| **Enterprise MLOps** | SCB AIML Workbench / SWOOSH-FRIDAY — Azure ML, Kubeflow, MLflow, DVC, Jenkins, Kubernetes, TruEra | **90% extraction accuracy · 50% faster turnaround · 5+ deep-learning models · RAI-governed** |
+| **AI security** | SecureNet AI WatchTower — GenAI data-leak monitoring across text, PDF, image, audio, video; risk scoring, RBAC, dashboards | **5 data types · 3-role RBAC · 4 dashboards · automated high-risk alerts · no source data retained** |
+| **Legacy modernization** | Legacy-Lens — deterministic LangGraph supervisor, 4 specialist agents, 4 MCP servers, RAG + citation gate, HITL | **41 tests · 8 MCP tools · citation-gated refusal · 3-case golden eval · full audit trace** |
+| **Clinical decision intelligence** | QEMIDP / Pulse ED — MIMIC-IV + CXR, LangGraph 6-stage pipeline, 5 guardrail layers, HITL, local-first Ollama | **5 guardrail layers · 6-stage pipeline · 3-case golden eval · HITL + audit trace** |
 | **Agentic ops** | APAMA project management advisor — CrewAI, Ollama, FastAPI | **42% faster planning · 91% compliance · 88% forecast correlation** |
 | **Drug discovery** | VAE + GNN + RL molecular pipeline — McMaster | **90% valid molecules · 67.2% quality lift · 14.7% over baseline** |
 | **AML & compliance** | Real-time screening, entity matching, alert workflow | **30–40% fewer false positives · 35–45% better screening accuracy** |
