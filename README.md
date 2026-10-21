@@ -45,7 +45,7 @@
 
 ---
 
-## 🔍 Selected proof — public and clickable
+## 🔍 Selected Proof — Public and Clickable
 
 | Project | What it demonstrates | Signal |
 |---|---|---|
@@ -58,32 +58,32 @@
 
 ---
 
-## 📈 AIMLOps Enterprise impact
+## 📈 AIMLOps Enterprise Impact
 
 | Domain | Work | Measured outcome |
 |---|---|---|
 | **Healthcare AI** | Springer Nature case study — Top-tier hospital ED capacity | **30% fewer LWBS · 20% faster door-to-doctor · 14% lower discharged-patient LOS · 2,500–3,000 added visits/year** |
-| **Clinical decision intelligence** | North America clinical organization — QEMIDP / Pulse ED — MIMIC-IV + CXR, LangGraph 6-stage pipeline, 5 guardrail layers, HITL, local-first Ollama | **100% evidence attach (test gate) · 100% guardrail reason-code traceability · 5 guardrail layers · 6-stage pipeline · HITL + audit trace** |
-| **Legacy modernization** | Local manufacturing company — Legacy-Lens — deterministic LangGraph supervisor, 4 specialist agents, 4 MCP servers, RAG + citation gate, HITL | **100% test pass rate (41/41) · 100% citation-gated answers · 8/8 MCP tools · 3 golden eval cases · end-to-end audit trace** |
-| **Edge AI + multi-agent** | Local SME payment claim — FIVIS vehicle inspection — LangGraph multi-agent orchestration, RAG/VectorDB, Rust/WASM, ONNX, NVIDIA Triton | **25× performance · 70–85% lower latency · 40–60% scalability · grounded, auditable decisions** |
-| **Drug discovery** | Market leader of the pharmaceutical industry — VAE + GNN + RL molecular pipeline | **90% valid molecules · 67.2% quality lift · 14.7% over baseline** |
-| **Disaster response AI** | One of the world's healthcare organizations — AI-driven disaster resource matching; Neo4j knowledge graph, DSPy workflows, entity mapping, web scraping, GCP + AWS Lambda | **80–90% faster matching (weeks → hours) · 50%+ coordination efficiency · 60–70% faster resource discovery · 45–55% less manual coordination** |
-| **Agentic ops** | Leading wholesale chain — APAMA project management advisor — CrewAI, Ollama, FastAPI | **42% faster planning · 91% compliance · 88% forecast correlation** |
-| **HR & finance analytics** | Asia top-tier services — governed Azure/Power BI platform | **45–55% reporting visibility · 30–40% forecasting accuracy** |
-| **AI security** | Japanese bank — SecureNet AI WatchTower — GenAI data-leak monitoring across text, PDF, image, audio, video; risk scoring, RBAC, dashboards | **100% conversation risk scoring · 100% of 5 data types monitored · 3-role RBAC · 4 dashboards · 0% source data retained** |
-| **Data management & governance** | Asia top-tier bank — Project Orion and CATA — real-time and batch data ingestion with CDC/SCD2; Hadoop/Spark/Yarn, Airflow, S3, Collibra, Flink, PySpark, AWS/GCP | **40–50% better ingestion scalability · 45–55% less manual ingestion · 35–45% better data quality · 30–40% faster lake/warehouse availability · 50%+ analytics readiness** |
+| **Clinical Decision Intelligence** | North America clinical organization — QEMIDP / Pulse ED — MIMIC-IV + CXR, LangGraph 6-stage pipeline, 5 guardrail layers, HITL, local-first Ollama | **100% evidence attach (test gate) · 100% guardrail reason-code traceability · 5 guardrail layers · 6-stage pipeline · HITL + audit trace** |
+| **Legacy Modernization** | Local manufacturing company — Legacy-Lens — deterministic LangGraph supervisor, 4 specialist agents, 4 MCP servers, RAG + citation gate, HITL | **100% test pass rate (41/41) · 100% citation-gated answers · 8/8 MCP tools · 3 golden eval cases · end-to-end audit trace** |
+| **Edge AI + Multi-Agent** | Local SME payment claim — FIVIS vehicle inspection — LangGraph multi-agent orchestration, RAG/VectorDB, Rust/WASM, ONNX, NVIDIA Triton | **25× performance · 70–85% lower latency · 40–60% scalability · grounded, auditable decisions** |
+| **Drug Discovery** | Market leader of the pharmaceutical industry — VAE + GNN + RL molecular pipeline | **90% valid molecules · 67.2% quality lift · 14.7% over baseline** |
+| **Disaster Response AI** | One of the world's healthcare organizations — AI-driven disaster resource matching; Neo4j knowledge graph, DSPy workflows, entity mapping, web scraping, GCP + AWS Lambda | **80–90% faster matching (weeks → hours) · 50%+ coordination efficiency · 60–70% faster resource discovery · 45–55% less manual coordination** |
+| **Agentic Ops** | Leading wholesale chain — APAMA project management advisor — CrewAI, Ollama, FastAPI | **42% faster planning · 91% compliance · 88% forecast correlation** |
+| **HR & Finance Analytics** | Asia top-tier services — governed Azure/Power BI platform | **45–55% reporting visibility · 30–40% forecasting accuracy** |
+| **AI Security** | Japanese bank — SecureNet AI WatchTower — GenAI data-leak monitoring across text, PDF, image, audio, video; risk scoring, RBAC, dashboards | **100% conversation risk scoring · 100% of 5 data types monitored · 3-role RBAC · 4 dashboards · 0% source data retained** |
+| **Data Management & Governance** | Asia top-tier bank — Project Orion and CATA — real-time and batch data ingestion with CDC/SCD2; Hadoop/Spark/Yarn, Airflow, S3, Collibra, Flink, PySpark, AWS/GCP | **40–50% better ingestion scalability · 45–55% less manual ingestion · 35–45% better data quality · 30–40% faster lake/warehouse availability · 50%+ analytics readiness** |
 | **Enterprise MLOps** | Top-tier 1 of top 5 financial institutions — AIML Workbench / SWOOSH-FRIDAY — Azure ML, Kubeflow, MLflow, DVC, Jenkins, Kubernetes, TruEra | **90% extraction accuracy · 50% faster turnaround · 5+ deep-learning models · RAI-governed** |
-| **Organizational analytics** | One of the World Top 4 consulting firms — ONA, workforce optimization | **50%+ org visibility · 30–40% lower key-person risk** |
-| **AML & compliance** | World top-tier financial institution — Real-time screening, entity matching, alert workflow | **30–40% fewer false positives · 35–45% better screening accuracy** |
+| **Organizational Analytics** | One of the World Top 4 consulting firms — ONA, workforce optimization | **50%+ org visibility · 30–40% lower key-person risk** |
+| **AML & Compliance** | World top-tier financial institution — Real-time screening, entity matching, alert workflow | **30–40% fewer false positives · 35–45% better screening accuracy** |
 
 ---
 
-## 📚 Research & publications
+## 📚 Research & Publications
 
-**Google Scholar profile — full publication record:**  
+**Google Scholar Profile — full publication record:**  
 **[scholar.google.com/citations?user=BWPq9wQAAAAJ](https://scholar.google.com/citations?user=BWPq9wQAAAAJ&hl=en&authuser=6)**
 
-**Peer-reviewed & published**
+**Peer-Reviewed & Published**
 
 - **Can AI Create Emergency-Department Capacity Without Building More Capacity?** — *Springer Nature*, September 12, 2026 · case study + teaching note
 - **An MCP-Driven Multi-Agent Enterprise Marketplace Platform Architecture for Myanmar Secondhand and Local Fashion Merchants** — *International Journal of Computer Applications*, August 20, 2026
@@ -91,7 +91,7 @@
 - **Local Pattern Descriptor-based EEG Classification During Mental Arithmetic Tasks: A Comparative Analysis of Machine Learning Models** — *International Journal of Computer Applications*, November 18, 2025
 - **Intelligent Movement-Controlled Brain-Computer Interface System Based on EEG Signal** — *River Publishers* book chapter, May 25, 2025
 
-**In progress**
+**In Progress**
 
 - QuantEdge MultiAgents Intelligent Decision Platform
 - Cyber Security Agent
@@ -179,7 +179,7 @@
 
 ---
 
-## 🧑‍🏫 Teaching, mentoring & community
+## 🧑‍🏫 Teaching, Mentoring & Community
 
 - **Part-time lecturer:** University of London · Murdoch University (Kaplan) · Metis · MAGES Institute · Lithan
 - **Upskilled 200+ professionals** in AI/ML and data science development and deployment
