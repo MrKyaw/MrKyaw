@@ -63,7 +63,7 @@
 | Domain | Work | Measured outcome |
 |---|---|---|
 | **Enterprise Reference Architecture** | [Enterprise AI Reference Architecture](https://github.com/MrKyaw/Enterprise-AI-Reference-Architecture) — vendor-neutral enterprise AI/ML architecture and governance knowledge base; reference architectures, MLOps/LLMOps lifecycles, RAG and agent patterns, security controls, FinOps | **19 lifecycles · 13 pattern catalogs · 8 reference architectures · 79 production failure modes · 12 AI security controls** |
-| **Healthcare AI** | Springer Nature case study — Top-tier hospital ED capacity | **30% fewer LWBS · 20% faster door-to-doctor · 14% lower discharged-patient LOS · 2,500–3,000 added visits/year** |
+| **Healthcare AI** | **Springer Nature** case study — Top-tier hospital ED capacity | **30% fewer LWBS · 20% faster door-to-doctor · 14% lower discharged-patient LOS · 2,500–3,000 added visits/year** |
 | **Clinical Decision Intelligence** | North America clinical organization — QEMIDP / Pulse ED — MIMIC-IV + CXR, LangGraph 6-stage pipeline, 5 guardrail layers, HITL, local-first Ollama | **100% evidence attach (test gate) · 100% guardrail reason-code traceability · 5 guardrail layers · 6-stage pipeline · HITL + audit trace** |
 | **Legacy Modernization** | Local manufacturing company — Legacy-Lens — deterministic LangGraph supervisor, 4 specialist agents, 4 MCP servers, RAG + citation gate, HITL | **100% test pass rate (41/41) · 100% citation-gated answers · 8/8 MCP tools · 3 golden eval cases · end-to-end audit trace** |
 | **Edge AI + Multi-Agent** | Local SME payment claim — FIVIS vehicle inspection — LangGraph multi-agent orchestration, RAG/VectorDB, Rust/WASM, ONNX, NVIDIA Triton | **25× performance · 70–85% lower latency · 40–60% scalability · grounded, auditable decisions** |
@@ -86,7 +86,7 @@
 
 **Peer-Reviewed & Published**
 
-- **Can AI Create Emergency-Department Capacity Without Building More Capacity?** — *Springer Nature*, September 12, 2026 · case study + teaching note
+- **Can AI Create Emergency-Department Capacity Without Building More Capacity?** — ***Springer Nature***, September 12, 2026 · case study + teaching note
 - **An MCP-Driven Multi-Agent Enterprise Marketplace Platform Architecture for Myanmar Secondhand and Local Fashion Merchants** — *International Journal of Computer Applications*, August 20, 2026
 - **Dynamic Functional Connectivity Patterns in Resting-State EEG for Classifying Learning Strategies** — *International Journal of Computer Applications*, December 18, 2025
 - **Local Pattern Descriptor-based EEG Classification During Mental Arithmetic Tasks: A Comparative Analysis of Machine Learning Models** — *International Journal of Computer Applications*, November 18, 2025
