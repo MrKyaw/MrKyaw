@@ -24,7 +24,7 @@
 
 > **I turn regulated, high-stakes business problems into production AI systems — with the evaluation, observability, and governance to survive contact with reality.**
 
-| 14+ years AI/ML/DS | 23+ years · ~10 industries | 25× Edge AI speed-up | 5 publications · 2025–26 | 200+ professionals upskilled |
+| 14+ years AI/ML/DS | 23+ years · ~7 industries | 25× Edge AI speed-up | 5 publications · 2025–26 | 200+ professionals upskilled |
 |:---:|:---:|:---:|:---:|:---:|
 
 ---
