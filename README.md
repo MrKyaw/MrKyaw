@@ -62,12 +62,12 @@
 
 | Domain | Work | Measured outcome |
 |---|---|---|
-| **Healthcare AI** | Springer Nature case study — Mercy Hospital–Fort Smith ED capacity | **30% fewer LWBS · 20% faster door-to-doctor · 14% lower discharged-patient LOS · 2,500–3,000 added visits/year** |
+| **Healthcare AI** | Springer Nature case study — Top-tier hospital ED capacity | **30% fewer LWBS · 20% faster door-to-doctor · 14% lower discharged-patient LOS · 2,500–3,000 added visits/year** |
 | **Clinical decision intelligence** | North America clinical organization — QEMIDP / Pulse ED — MIMIC-IV + CXR, LangGraph 6-stage pipeline, 5 guardrail layers, HITL, local-first Ollama | **100% evidence attach (test gate) · 100% guardrail reason-code traceability · 5 guardrail layers · 6-stage pipeline · HITL + audit trace** |
 | **Legacy modernization** | Local manufacturing company — Legacy-Lens — deterministic LangGraph supervisor, 4 specialist agents, 4 MCP servers, RAG + citation gate, HITL | **100% test pass rate (41/41) · 100% citation-gated answers · 8/8 MCP tools · 3 golden eval cases · end-to-end audit trace** |
 | **Edge AI + multi-agent** | Local SME payment claim — FIVIS vehicle inspection — LangGraph multi-agent orchestration, RAG/VectorDB, Rust/WASM, ONNX, NVIDIA Triton | **25× performance · 70–85% lower latency · 40–60% scalability · grounded, auditable decisions** |
 | **Drug discovery** | Market leader of the pharmaceutical industry — VAE + GNN + RL molecular pipeline | **90% valid molecules · 67.2% quality lift · 14.7% over baseline** |
-| **Disaster response AI** | World Disable Institute — AI-driven disaster resource matching; Neo4j knowledge graph, DSPy workflows, entity mapping, web scraping, GCP + AWS Lambda | **80–90% faster matching (weeks → hours) · 50%+ coordination efficiency · 60–70% faster resource discovery · 45–55% less manual coordination** |
+| **Disaster response AI** | One of the world's healthcare organizations — AI-driven disaster resource matching; Neo4j knowledge graph, DSPy workflows, entity mapping, web scraping, GCP + AWS Lambda | **80–90% faster matching (weeks → hours) · 50%+ coordination efficiency · 60–70% faster resource discovery · 45–55% less manual coordination** |
 | **Agentic ops** | Leading wholesale chain — APAMA project management advisor — CrewAI, Ollama, FastAPI | **42% faster planning · 91% compliance · 88% forecast correlation** |
 | **HR & finance analytics** | Asia top-tier services — governed Azure/Power BI platform | **45–55% reporting visibility · 30–40% forecasting accuracy** |
 | **AI security** | Japanese bank — SecureNet AI WatchTower — GenAI data-leak monitoring across text, PDF, image, audio, video; risk scoring, RBAC, dashboards | **100% conversation risk scoring · 100% of 5 data types monitored · 3-role RBAC · 4 dashboards · 0% source data retained** |
