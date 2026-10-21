@@ -181,9 +181,9 @@
 
 ## 🧑‍🏫 Teaching, Mentoring & Community
 
-- **Part-time lecturer:** University of London · Murdoch University (Kaplan) · Metis · MAGES Institute · Lithan
+- **Part-Time Lecturer:** University of London · Murdoch University (Kaplan) · Metis · MAGES Institute · Lithan
 - **Upskilled 200+ professionals** in AI/ML and data science development and deployment
-- **Project advisor:** National Science and Technology Development Agency (2022–present)
+- **Project Advisor:** National Science and Technology Development Agency (2022–2024 Aug)
 - **Mentor:** AI Saturdays · DataKind · Omdena
 - **Community:** RAE(Soon) · DeepEval · Boon Lay Zone F Resident Network · Mahamuni Buddhist Society · Toastmasters International
 
