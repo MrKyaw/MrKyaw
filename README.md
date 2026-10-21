@@ -68,10 +68,10 @@
 | **Legacy modernization** | Local manufacturing company — Legacy-Lens — deterministic LangGraph supervisor, 4 specialist agents, 4 MCP servers, RAG + citation gate, HITL | **41/41 tests passing · 8/8 MCP tools callable · 3 golden eval cases · 100% citation-gated answers · end-to-end audit trace** |
 | **Clinical decision intelligence** | North America clinical organization — QEMIDP / Pulse ED — MIMIC-IV + CXR, LangGraph 6-stage pipeline, 5 guardrail layers, HITL, local-first Ollama | **5 guardrail layers · 6-stage evidence pipeline · 3 golden eval cases · max 2 bounded explain retries · HITL + audit trace** |
 | **Agentic ops** | Leading wholesale chain — APAMA project management advisor — CrewAI, Ollama, FastAPI | **42% faster planning · 91% compliance · 88% forecast correlation** |
-| **Drug discovery** | Leading pharmaceutical industry — VAE + GNN + RL molecular pipeline | **90% valid molecules · 67.2% quality lift · 14.7% over baseline** |
+| **Drug discovery** | Market leader of the pharmaceutical industry — VAE + GNN + RL molecular pipeline | **90% valid molecules · 67.2% quality lift · 14.7% over baseline** |
 | **AML & compliance** | World top-tier financial institution — Real-time screening, entity matching, alert workflow | **30–40% fewer false positives · 35–45% better screening accuracy** |
-| **HR & finance analytics** | Asia top-tier manufacturing — governed Azure/Power BI platform | **45–55% reporting visibility · 30–40% forecasting accuracy** |
-| **Organizational analytics** | World Top 4 Consulting — ONA, workforce optimization | **50%+ org visibility · 30–40% lower key-person risk** |
+| **HR & finance analytics** | Asia top-tier services — governed Azure/Power BI platform | **45–55% reporting visibility · 30–40% forecasting accuracy** |
+| **Organizational analytics** | One of the World Top 4 consulting firms — ONA, workforce optimization | **50%+ org visibility · 30–40% lower key-person risk** |
 | **Healthcare AI** | Springer Nature case study — ED capacity | **5 capacity options evaluated · 90-day governed pilot · multi-year scale gated on operational + governance outcomes** |
 
 ---
