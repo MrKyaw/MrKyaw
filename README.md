@@ -125,26 +125,26 @@
 ---
 
 <details>
-<summary><strong>💼 Experience — 23+ years across ~10 industries</strong></summary>
+<summary><strong>💼 Experience — 23+ years across ~7 industries</strong></summary>
 
 | Role | Organization | Period |
 |---|---|---|
-| Principal AI Engineer (R&D) | Freelance, Mississauga | Jan 2026 – present |
-| AIMLOps Engineer (R&D) | RadComm Systems, Ontario | Jun – Oct 2025 |
-| Lead AIML Engineer | Omdena | Jun 2024 – Jun 2025 |
-| Senior Manager — Solution Architect, AIMLOps & Data Science | Capgemini, Singapore | Nov 2021 – May 2024 |
-| Data Analytics & Science Manager — Human Capital | Keppel Corporation | Jan – Apr 2021 |
-| Senior Data Scientist — Data & AI CoE | Deloitte Consulting | Jan 2018 – Nov 2020 |
-| Enterprise Solution Software Engineer (R&D) — Telecom | MyRepublic | Aug 2016 – Jan 2017 |
-| Enterprise Software Developer (R&D) — Banking & Insurance | Lexmark Enterprise Software | Oct 2012 – Feb 2016 |
-| Signal Processing Engineer (R&D) — Biomedical | Nitto Denko Asia Technical Centre | May 2011 – Sep 2012 |
-| Vision Software Engineer (R&D) — Biometrics | NEC Asia Pacific | May 2008 – Apr 2009 |
-| Research Engineer — Data Storage | DSI-A*STAR | May 2006 – Apr 2008 |
-| Design Engineer (R&D) — Communication & Power | Panasonic | Oct 2005 – Apr 2006 |
-| Service & Process Engineer — Semiconductor | ASM | Nov 2004 – Apr 2006 |
-| R&D Engineer (Assistant Manager) — Power & Communication | Duwon Electronics, Yangon | Aug 2001 – May 2003 |
+| Principal AI Engineer (R&D) | Freelance(After University), Mississauga | Jan 2026 – present |
+| AIMLOps Engineer (R&D) | RadComm Systems((During University), Ontario | Jun – Oct 2025 |
+| Lead AIML Engineer | Omdena(During University) | Jun 2024 – Jun 2025 |
+| Senior Manager — Solution Architect, AIMLOps & Data Science | Capgemini(Permanent), Singapore | Nov 2021 – May 2024 |
+| Data Analytics & Science Manager — Human Capital | Keppel(Full Time) Corporation | Jan – Apr 2021 |
+| Senior Data Scientist — Data & AI CoE | Deloitte(Permanent) Consulting | Jan 2018 – Nov 2020 |
+| Enterprise Solution Software Engineer (R&D) — Telecom | MyRepublic(Full Time) | Aug 2016 – Jan 2017 |
+| Enterprise Software Developer (R&D) — Banking & Insurance | Lexmark(Permanent) Enterprise Software | Oct 2012 – Feb 2016 |
+| Signal Processing Engineer (R&D) — Biomedical | Nitto Denko(Permanent) Asia Technical Centre | May 2011 – Sep 2012 |
+| Vision Software Engineer (R&D) — Biometrics | NEC Asia Pacific(Full Time) | May 2008 – Apr 2009 |
+| Research Engineer — Data Storage | DSI-A*STAR(Permanent) | May 2006 – Apr 2008 |
+| Design Engineer (R&D) — Communication & Power | Panasonic(Full Time) | Oct 2005 – Apr 2006 |
+| Service & Process Engineer — Semiconductor | ASM(Permanent) | Nov 2004 – Apr 2006 |
+| R&D Engineer (Assistant Manager) — Power & Communication | Duwon Electronics(Permanent), Yangon | Aug 2001 – May 2003 |
 
-**Enterprise highlights:** MLOps Architect for unstructured data at Global SCB · data-ingestion engineering at DBS · AI and GenAI platforms for HSBC and NTUC Income · AWS volunteer management system for Singapore's MCCY · organizational network analytics and workforce optimization at Deloitte.
+**Enterprise highlights:** MLOps Architect for unstructured data at Global Top Bank · Data-Ingestion Engineering at Top Asia Bank · AI and GenAI platforms for Top Japanese Bank and Insurances · AWS Volunteer Management System for Singapore's Government · Organizational Network Analytics and Workforce Optimization at Deloitte.
 
 </details>
 
