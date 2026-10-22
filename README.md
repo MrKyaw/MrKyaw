@@ -168,13 +168,16 @@
 
 | Area | Technologies |
 |---|---|
-| **Agentic & GenAI** | LangGraph · CrewAI · AutoGen · Semantic Kernel · DSPy · MCP · A2A · RAG · PromptOps |
-| **ML/DL** | PyTorch · TensorFlow · Keras · scikit-learn · Transformers · OpenCV · YOLOv8 |
-| **MLOps/LLMOps** | MLflow · Kubeflow · DVC · Airflow · NVIDIA Triton · ONNX · Docker · Kubernetes · Helm · Terraform |
-| **Data & governance** | Spark · Kafka · Databricks · Hadoop · Collibra · BigID · Neo4j · Qdrant · Pinecone · FAISS · Weaviate |
-| **Cloud** | AWS · Azure · GCP · Databricks |
-| **Languages** | Python · PySpark · R · SQL · Rust/WASM · TypeScript · Java · C# · C++ · MATLAB |
-| **Visualisation** | Tableau · Power BI · Streamlit · Plotly · Grafana |
+| **AI/ML Techniques** | Multi-agent orchestration · agentic RAG · prompt engineering · tool calling · semantic retrieval · model routing · fine-tuning · reinforcement learning · self-supervised learning · transformers · vision transformers · RNNs · CNNs · classification · regression · clustering · NLP |
+| **LLMs & Agent Frameworks** | OpenAI/GPT · Claude · Gemini · Llama · Qwen · LangChain · LangGraph · Deep Agents · OpenRouter · Ollama · Model Context Protocol (MCP) |
+| **AI Governance & Evaluation** | Role-based access control · permission gates · human approval workflows · adversarial review · guardrails · evidence-grounded responses · reproducible benchmarks · quality gates · audit trails |
+| **AI/ML Libraries & Platforms** | TensorFlow · PyTorch · Keras · NLTK · OpenCV · ONNX Runtime · YOLO · DINO · Databricks · Dataiku |
+| **Programming Languages & Application Development** | Python · Java · C# · C++ · R · Scala · PySpark · Rust · TypeScript · JavaScript · SQL · FastAPI · React · Next.js · REST APIs · WebSockets · WebAssembly |
+| **Data Engineering & Governance** | Apache Kafka · Apache Flink · Informatica · Hive · Impala · event-driven pipelines · streaming analytics · data reconciliation · BigID · Collibra |
+| **Databases, Retrieval & Caching** | PostgreSQL · pgvector · Qdrant · MySQL · MongoDB · Redis · vector search · exact, semantic, and prefix caching |
+| **Cloud & Infrastructure** | AWS EC2 · S3 · Lambda · Aurora · Azure Virtual Machines · AKS · Azure Machine Learning · Google Cloud Storage · BigQuery · Colab · Docker · Kubernetes |
+| **Observability, Analytics & Cost Optimization** | Prometheus · Grafana · Langfuse · MLflow · distributed tracing · cost ledgers · inference budget controls · Tableau · Power BI · Google Analytics |
+| **Development & Quality Tools** | Git · GitHub Actions · Jenkins · pytest · Ruff · mypy · Postman · SoapUI · Visual Studio · PyCharm · CI/CD workflows across Linux, Windows, and macOS |
 
 </details>
 
