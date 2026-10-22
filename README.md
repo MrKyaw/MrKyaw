@@ -85,7 +85,7 @@
 **[scholar.google.com/citations?user=BWPq9wQAAAAJ](https://scholar.google.com/citations?user=BWPq9wQAAAAJ&hl=en&authuser=6)**
 
 **Peer-Reviewed & Published**
-- **Signal-Processing Detection with Human-Guarded Containment: A Live Network Security Agent (Submitted to IJICS, Inderscience on October 8, 2026)**
+- **Signal-Processing Detection with Human-Guarded Containment: A Live Network Security Agent (Under reviewed to IJICS, Inderscience on October 21, 2026)**
 - **Can AI Create Emergency-Department Capacity Without Building More Capacity?** — ***Springer Nature***, September 12, 2026 · case study + teaching note
 - **An MCP-Driven Multi-Agent Enterprise Marketplace Platform Architecture for Myanmar Secondhand and Local Fashion Merchants** — *International Journal of Computer Applications*, August 20, 2026
 - **Dynamic Functional Connectivity Patterns in Resting-State EEG for Classifying Learning Strategies** — *International Journal of Computer Applications*, December 18, 2025
