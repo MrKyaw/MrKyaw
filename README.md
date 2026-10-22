@@ -49,12 +49,20 @@
 
 | Project | What it demonstrates | Signal |
 |---|---|---|
-| **[Agentic Ops Services Platform](https://github.com/MrKyaw/Agentic-Ops-Services-Platform)** | Multi-tenant agentic AI foundation: MCP-governed agents, hybrid retrieval (FTS + vector + graph), versioned prompts with approval workflow, grounded QA with citations | 202 traceability rows · full audit trail |
+| **[AgentForge-Enterprise-AI-Platform](https://github.com/MrKyaw/AgentForge-Enterprise-AI-Platform)** | Governed agent runtime: hybrid RAG, multi-provider model routing, tenant entitlements, human approvals, hash-chained audit, and cost controls. | Enterprise AI governance and platform engineering |
+| **[Agentic Ops Services Platform](https://github.com/MrKyaw/Agentic-Ops-Services-Platform)** | Multi-tenant agentic AI foundation: MCP-governed API boundaries, ReAct/ReWOO orchestration, Python/FastAPI, Angular, graph and hierarchical retrieval, and AWS Terraform definitions. | Services AI architecture, trust, and operational resilience |
+| **[Agentic Project Management Advisor](https://github.com/MrKyaw/Agentic-Project-Agnostic-Management-Advisor)** | CrewAI + local Ollama agents for planning, estimation, resource allocation, and forecasting | **42% faster planning · 91% structured-output compliance** |
 | **[Agentic Usage Billing Engine](https://github.com/MrKyaw/Agentic-Usage-Billing-Engine)** | Event-driven, idempotent usage-based billing: ingest → rate → aggregate → reconcile → MCP; serverless on AWS | **100% test coverage** |
 | **[CognitiveMirror-Jev-MCP](https://github.com/MrKyaw/CognitiveMirror-Jev-MCP)** | Cognitive middleware for personal and enterprise agents: 14 MCP tools, REST API, memory, guardrails, approval workflows | Deterministic offline engines · Docker |
-| **[Agentic Project Management Advisor](https://github.com/MrKyaw/Agentic-Project-Agnostic-Management-Advisor)** | CrewAI + local Ollama agents for planning, estimation, resource allocation, and forecasting | **42% faster planning · 91% structured-output compliance** |
-| **[Sentry-AI](https://github.com/MrKyaw/Sentry-AI)** | Offline cybersecurity signal-processing demo: telemetry replay, statistical baselines, noisy-OR risk fusion, hysteresis | Explainable, reproducible detection |
+| **[ConversaFlow-AI](https://github.com/MrKyaw/ConversaFlow-AI)** | Tenant-aware conversational runtime: calibrated intent classification, explicit dialogue graphs, typed tools, cited knowledge retrieval, REST/WebSocket APIs, and a TypeScript SDK. | Intent precision and end-to-end workflow integration |
+| **[Enterprise-AI-Reference-Architecture](https://github.com/MrKyaw/Enterprise-AI-Reference-Architecture)** | Vendor-neutral architecture knowledge base: AI/ML lifecycle gates, reference designs, reusable patterns, security controls, standards, and architecture decision records. | Technical direction, engineering standards, and team enablement |
+| **[Industrial-Agent-Intelligence](https://github.com/MrKyaw/Industrial-Agent-Intelligence)** | Evidence-grounded industrial agents: facility ontology, policy-checked tools, numeric grounding checks, human escalation, and deterministic behavioural evaluations. | Domain translation, agent safety, and evaluation engineering |
+| **[Legacy-Lens](https://github.com/MrKyaw/Legacy-Lens)** | Legacy-modernization copilot: LangGraph supervisor, specialist agents, MCP tool plane, cited RAG, human approvals, durable checkpoints, and streamed execution. | Legacy-system integration and modular agent orchestration |
+| **[Med-Foundation-Models](https://github.com/MrKyaw/Med-Foundation-Models)** | Whole-body MRI research framework: self-supervised learning with MAE, SimCLR, DINO and JEPA; Vision Transformers, multimodal fusion, and downstream fine-tuning. | Hands-on ML depth, model development, and training workflows |
 | **[MGIIA — Mobility Assistant](https://github.com/MrKyaw/Mobility-Guided-Intelligent-Information-Assistant)** | YOLOv8 + DeepLabV3 + Llama 3.2 Vision for hands-free road-scene understanding | **94.7% detection accuracy · 40% fewer false positives** |
+| **[Quant-Pulse-Processor](https://github.com/MrKyaw/Quant-Pulse-Processor)** | Python/NumPy quantum toolkit: statevector simulation, five canonical algorithms checked against exact references, and pulse-level transmon modelling. | Numerical engineering, algorithm design, and rigorous verification |
+| **[Sentry-AI](https://github.com/MrKyaw/Sentry-AI)** | Offline cybersecurity signal-processing demo: telemetry replay, statistical baselines, noisy-OR risk fusion, hysteresis | Explainable, reproducible detection |
+| **[TrustMed-AI-Fabric](https://github.com/MrKyaw/TrustMed-AI-Fabric)** | Governed content and AI reference implementation: evidence-backed claims, approval and expiry controls, provenance, MCP tools, cited retrieval, and hash-chained audit. | Regulated-workflow governance and auditable AI |
 
 ---
 
@@ -214,3 +222,4 @@ Applied AI engineering: agentic systems, real-time voice and multimodal assistan
 </p>
 
 <p align="center"><em>Build fast. Measure everything. Ship with guardrails.</em></p>
+
