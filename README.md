@@ -107,12 +107,13 @@ Selected delivery outcomes and implementation checks. Test-gate results are iden
 
 **Projects in progress**
 
-- QuantEdge MultiAgents Intelligent Decision Platform
-- Cyber Security Agent
-- Trustworthy Agent Factory
-- LLM Inference
+- **QuantEdge MultiAgents Intelligent Decision Platform(https://github.com/MrKyaw/QEMIDP)**
+- **Cyber Security MCP(https://github.com/MrKyaw/sigsentinel)**
+- **Trustworthy Agent Factory(https://github.com/MrKyaw/trustworthy-agent-factory)**
+- **Optimum Inference Route(https://github.com/MrKyaw/opt-infer-route)**
+- **Smart Compute Fabric(https://github.com/MrKyaw/smart-compute-fabric)**
 
-**Academic service:** Project supervision; reviewer, *Digital Health* (July 2026–present)
+**Academic Service:** Project Supervision; Research Reviewer, *Digital Health* (July 2026–present)
 
 ---
 
