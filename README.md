@@ -105,7 +105,7 @@ Selected delivery outcomes and implementation checks. Test-gate results are iden
 
 - **Signal-Processing Detection with Human-Guarded Containment: A Live Network Security Agent** — IJICS, Inderscience · submitted October 21, 2026; under review
 
-**Projects in progress**
+**Solutions in progress**
 
 - **QuantEdge MultiAgents Intelligent Decision Platform(https://github.com/MrKyaw/QEMIDP)**
 - **Cyber Security MCP(https://github.com/MrKyaw/sigsentinel)**
