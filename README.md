@@ -67,6 +67,16 @@ Runnable projects and architecture references. Signals below summarize repositor
 
 ---
 
+## 🤝 Community Contribution
+
+| Project | Status |
+|---|---|
+| [DeepEval](https://github.com/confident-ai/deepeval) | Current work |
+| [MLflow](https://github.com/mlflow/mlflow) | Current work |
+| [REA](https://github.com/morluto/rea) | In Progress |
+
+---
+
 ## 📈 Enterprise AI & MLOps Impact
 
 Selected delivery outcomes and implementation checks. Test-gate results are identified separately from business outcomes.
