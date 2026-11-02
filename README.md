@@ -111,16 +111,16 @@ Selected delivery outcomes and implementation checks. Test-gate results are iden
 - **Local Pattern Descriptor-based EEG Classification During Mental Arithmetic Tasks: A Comparative Analysis of Machine Learning Models** — *International Journal of Computer Applications*, November 18, 2025
 - **Intelligent Movement-Controlled Brain-Computer Interface System Based on EEG Signal** — *River Publishers* book chapter, May 25, 2025
 
-**Submitted Manuscript**
+**Submitted\Review Manuscripts**
 
 - **Signal-Processing Detection with Human-Guarded Containment: A Live Network Security Agent** — IJICS, Inderscience · submitted October 21, 2026; under review
 
 **Leading Solutions in progress**
 
-- **QuantEdge MultiAgents Intelligent Decision Platform(https://github.com/MrKyaw/QEMIDP)** with US Team Memeber
-- **Cyber Security MCP(https://github.com/MrKyaw/sigsentinel)** with Canada Team Memeber
-- **Trustworthy Agent Factory(https://github.com/MrKyaw/trustworthy-agent-factory)** with India Team Memeber
-- **Optimum Inference Route(https://github.com/MrKyaw/opt-infer-route)** with Japan Team Memeber
+- **QuantEdge MultiAgents Intelligent Decision Platform(https://github.com/MrKyaw/QEMIDP)** with US Team Member
+- **Cyber Security MCP(https://github.com/MrKyaw/sigsentinel)** with Canada Team Member
+- **Trustworthy Agent Factory(https://github.com/MrKyaw/trustworthy-agent-factory)** with India Team Member
+- **Optimum Inference Route(https://github.com/MrKyaw/opt-infer-route)** with Japan Team Member
 - **Smart Compute Fabric(https://github.com/MrKyaw/smart-compute-fabric)** 
 
 **Academic Service:** Project Supervision; Research Reviewer, *Digital Health* (July 2026–present)
