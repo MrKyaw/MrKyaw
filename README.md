@@ -71,8 +71,8 @@ Runnable projects and architecture references. Signals below summarize repositor
 
 | Project | Status |
 |---|---|
-| [DeepEval](https://github.com/confident-ai/deepeval) | Current work |
-| [MLflow](https://github.com/mlflow/mlflow) | Current work |
+| [DeepEval](https://github.com/confident-ai/deepeval) | Two open PRs awaiting review/merge: [#3390](https://github.com/confident-ai/deepeval/pull/3390) — five LLM-free production metrics; [#3411](https://github.com/confident-ai/deepeval/pull/3411) — retrieval, streaming, security, agent and text evaluation metrics. Tests and documentation included; neither PR merged yet. |
+| [MLflow](https://github.com/mlflow/mlflow) | Contribution preparation — [fork created](https://github.com/MrKyaw/mlflow); no upstream PR or commit found under MrKyaw as of November 2, 2026. |
 | [REA](https://github.com/morluto/rea) | In Progress |
 
 ---
