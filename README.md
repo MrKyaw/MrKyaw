@@ -67,7 +67,7 @@ Runnable projects and architecture references. Signals below summarize repositor
 
 ---
 
-## 🤝 Community Contribution
+## 🤝 Community Contributions
 
 | Project | Status |
 |---|---|
