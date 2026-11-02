@@ -117,11 +117,11 @@ Selected delivery outcomes and implementation checks. Test-gate results are iden
 
 **Leading Solutions in progress**
 
-- **QuantEdge MultiAgents Intelligent Decision Platform(https://github.com/MrKyaw/QEMIDP)** with US Team Member
-- **Cyber Security MCP(https://github.com/MrKyaw/sigsentinel)** with Canada Team Member
-- **Trustworthy Agent Factory(https://github.com/MrKyaw/trustworthy-agent-factory)** with India Team Member
-- **Optimum Inference Route(https://github.com/MrKyaw/opt-infer-route)** with Japan Team Member
-- **Smart Compute Fabric(https://github.com/MrKyaw/smart-compute-fabric)** 
+- **QuantEdge MultiAgents Intelligent Decision Platform(https://github.com/MrKyaw/QEMIDP) -> Ongoing Paper** with US Team Member 
+- **Cyber Security MCP(https://github.com/MrKyaw/sigsentinel) -> Reviewed Paper** with Canada Team Member
+- **Trustworthy Agent Factory(https://github.com/MrKyaw/trustworthy-agent-factory) -> Ongoing Paper** with India Team Member
+- **Optimum Inference Route(https://github.com/MrKyaw/opt-infer-route) -> Ongoing Paper** with Japan Team Member
+- **Smart Compute Fabric(https://github.com/MrKyaw/smart-compute-fabric) -> Ongoing Paper** 
 
 **Academic Service:** Project Supervision; Research Reviewer, *Digital Health* (July 2026–present)
 
