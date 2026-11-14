@@ -67,8 +67,7 @@ Runnable projects and architecture references. Signals below summarize repositor
 
 ---
 
-## 🤝 Community Contributions
-
+## 💻 Community Contributions
 | Project | Status |
 |---|---|
 | [DeepEval](https://github.com/confident-ai/deepeval) | Two open PRs awaiting review/merge: [#3390](https://github.com/confident-ai/deepeval/pull/3390) — five LLM-free production metrics; [#3411](https://github.com/confident-ai/deepeval/pull/3411) — retrieval, streaming, security, agent and text evaluation metrics. Tests and documentation included; neither PR merged yet. |
