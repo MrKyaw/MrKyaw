@@ -33,7 +33,7 @@
 
 > **PRIME: Production-Ready, Rapid, Intelligent, Measurable, and Efficient AI Engineering.** My approach combines delivery speed with evaluation, cost control, human oversight, and reliable operations.
 
-| Letter | Meaning | Professional value |
+| Letter | Meaning | Professional Value |
 |:---:|---|---|
 | **P** | Production-Ready | Reliable, secure, scalable enterprise AI |
 | **R** | Rapid | Faster delivery and engineering execution |
@@ -78,11 +78,11 @@ Runnable projects and architecture references. Signals below summarize repositor
 
 ---
 
-## 📈 Enterprise AI & MLOps Impact
+## 📈 Proven Enterprise AI & MLOps Impact
 
 Selected delivery outcomes and implementation checks. Test-gate results are identified separately from business outcomes.
 
-| Domain | Work | Measured outcome |
+| Domain | Work | Measured Outcome |
 |---|---|---|
 | **Healthcare AI** | **Springer Nature** case study — Top-tier hospital ED capacity | 30% fewer LWBS · 20% faster door-to-doctor · 14% lower discharged-patient LOS · 2,500–3,000 added visits/year |
 | **Clinical Decision Intelligence** | North American clinical organization — QEMIDP / Pulse ED — MIMIC-IV + CXR, LangGraph 6-stage pipeline, 5 guardrail layers, HITL, local-first Ollama | 100% evidence attachment (test gate) · 100% guardrail reason-code traceability (test gate) · 5 guardrail layers · 6-stage pipeline · HITL + audit trace |
