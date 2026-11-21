@@ -130,7 +130,7 @@ Selected delivery outcomes and implementation checks. Test-gate results are iden
 - **Smart Compute Fabric(https://github.com/MrKyaw/smart-compute-fabric) -> Ongoing Paper**, 
   **Prod Demo:https://www.youtube.com/watch?v=udMPFU_n81g&t=14s**
 
-**Academic Service:** Project Supervision; Research Reviewer, *Digital Health* (July 2026–present)
+**Academic Service:** Project Supervision; Research Reviewer, *Digital Health:https://journals.plos.org/globalpublichealth/* (July 2026–present)
 
 ---
 
