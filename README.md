@@ -119,15 +119,15 @@ Selected delivery outcomes and implementation checks. Test-gate results are iden
 
 **Leading Solutions in progress**
 
-- **QuantEdge MultiAgents Intelligent Decision Platform(https://github.com/MrKyaw/QEMIDP) -> Ongoing Paper** with US Team Member
+- **QuantEdge MultiAgents Intelligent Decision Platform(https://github.com/MrKyaw/QEMIDP) -> Ongoing Paper** with US Team Member,
   **Prod Demo:https://www.youtube.com/watch?v=FSbSjKluvzM&t=5s**
-- **Cyber Security MCP(https://github.com/MrKyaw/sigsentinel) -> Reviewed Paper** with Canada Team Member
+- **Cyber Security MCP(https://github.com/MrKyaw/sigsentinel) -> Reviewed Paper** with Canada Team Member,
   **Prod Demo:https://www.youtube.com/watch?v=iv-jO5xo7mY&t=5s**
-- **Trustworthy Agent Factory(https://github.com/MrKyaw/trustworthy-agent-factory) -> Ongoing Paper** with India Team Member
+- **Trustworthy Agent Factory(https://github.com/MrKyaw/trustworthy-agent-factory) -> Ongoing Paper** with India Team Member,
   **Prod Demo:https://www.youtube.com/watch?v=t1VeDEsoe8E&t=40s**
-- **Optimum Inference Route(https://github.com/MrKyaw/opt-infer-route) -> Ongoing Paper** with Japan Team Member
+- **Optimum Inference Route(https://github.com/MrKyaw/opt-infer-route) -> Ongoing Paper** with Japan Team Member,
   **Prod Demo:https://www.youtube.com/watch?v=-dk9cu**
-- **Smart Compute Fabric(https://github.com/MrKyaw/smart-compute-fabric) -> Ongoing Paper** 
+- **Smart Compute Fabric(https://github.com/MrKyaw/smart-compute-fabric) -> Ongoing Paper**, 
   **Prod Demo:https://www.youtube.com/watch?v=udMPFU_n81g&t=14s**
 
 **Academic Service:** Project Supervision; Research Reviewer, *Digital Health* (July 2026–present)
